@@ -14,12 +14,9 @@ _Es tan sólo una actividad de la asignatura de Buenas Prácticas de Programaci�
 * [Git](https://gitforwindows.org/) - Sistema de Control de Versiones
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iafp613&theme=blue-green)
-
-
 ## Más recursos 📌
 
-[EIP](https://eiposgrados.com/) - Gráficas en Tableau
+[EIP](https://eiposgrados.com/) - Escuela Internacional de Posgrados
 
 
 ## Autor ✒️
@@ -29,15 +26,15 @@ _Es tan sólo una actividad de la asignatura de Buenas Prácticas de Programaci�
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT(mira el archivo [LICENSE.md](LICENSE.md) para detalles).
+Este proyecto está bajo la Licencia MIT(mira el archivo [LICENSE.md](https://github.com/iafp613/BPP/blob/main/LICENSE) para detalles).
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)]
 
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]
+![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
